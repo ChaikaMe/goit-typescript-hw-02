@@ -1,0 +1,12 @@
+.button {
+  width: 120px;
+  height: 40px;
+  background-color: rgb(30, 32, 180);
+  color: #fff;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

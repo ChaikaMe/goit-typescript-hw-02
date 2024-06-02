@@ -1,0 +1,24 @@
+.header {
+  background-color: lightseagreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+}
+
+.form {
+  display: flex;
+  gap: 12px;
+}
+
+.input {
+  height: 40px;
+  border-radius: 4px;
+  width: 250px;
+  padding: 4px;
+}
+
+.button {
+  height: 40px;
+  border-radius: 4px;
+}
